@@ -27,7 +27,7 @@ def df():
 	#Select top n check-in countries
 	top10_country = "select country,count(*) as count from checkintest group by country sort by count desc limit 10"
 	top10_state_us = "select state,count(*) as count from checkintest where country='US' group by state sort by count desc limit 10"
-
+	top10_city_us = "select city,count(*) as count from checkintest where country='US' group by city sort by count desc limit 10"
  	country_label = []
  	country_cnt = []
  		
@@ -44,21 +44,19 @@ def df():
  		us_state_label.append(row['state'])
  		us_state_cnt.append(int(row['count']))
  	
+ 	us_city_label = []
+ 	us_city_cnt = []
 
- 	#print country_label,country_cnt
-
+ 	for row in hive_client.execute(top10_city_us):
+ 		us_city_label.append(row['city'])
+ 		us_city_cnt.append(int(row['count']))
+ 		
+ 	
  	plot_bar_chart(country_cnt,country_label,'Check-in Count','Top 10 Check-in countries','top10_country.png')
  	plot_bar_chart(us_state_cnt,us_state_label,'Check-in Count','Top 10 Check-in states in US','top10_state_us.png')
+ 	plot_bar_chart(us_city_cnt,us_city_label,'Check-in Count','Top 10 Check-in cities in US','top10_city_us.png')
  
- # 	y_pos = np.arange(len(country_x))
-	
-	# plt.barh(y_pos, country_cnt,align='center', alpha=0.4)
-	# plt.yticks(y_pos, country_x)
-	# plt.xlabel('Performance')
-	# plt.title('Top 10 Check-in countries')
-
- # 	plt.savefig('country_hist.png')
-
+ 
 	    
 
 if __name__ == '__main__':
