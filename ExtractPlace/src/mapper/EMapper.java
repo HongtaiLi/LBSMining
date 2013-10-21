@@ -36,23 +36,22 @@ public class EMapper extends Mapper<Object,Text,Text,NullWritable>{
 		return place;
 		
 	}
-	private String extract(String line){
-		
-		boolean flag = false;
+	
+private String extract(String line){
 		String placeName = null;
-		
+		//boolean flag = false;
 		if(line.contains("I'm at")){
-			flag = true;
+		//	flag = true;
 			int l = 0;
 			if((l=line.indexOf('('))!=-1){
 				String place = line.substring(6, l).trim();
 				place = removeOther(place);
-				placeName = placeName;
-				//System.out.println("aaaaaa "+place);
+				placeName = place;
+			//	System.out.println("aaaaaa "+place);
 			}
 		}
 		else if(line.contains("(@")||line.contains("(at")){
-			flag = true;
+			//flag = true;
 			
 			int s = line.indexOf("(@");
 			int t1 = line.indexOf(')', s);
@@ -63,17 +62,23 @@ public class EMapper extends Mapper<Object,Text,Text,NullWritable>{
 			//System.out.println("@aaaaaa "+place);
 			
 		}
+		
+		
 		return placeName;
 	}
-	
 	
 	public void map(Object object,Text line,Context context){
 		String [] columns = line.toString().split("\t");
 		String text = null;
+		int len = columns.length;
 		if(columns.length>=5){
 			text = columns[4];
+			String country = columns[len-3];
+			String placeName = "none";
+			if(country.equals("US") || country.equals("United States")){
+				placeName = extract(text);
+			}
 			//System.out.println(text);
-			String placeName = extract(text);
 			try {
 				context.write(new Text(line.toString().trim()+'\t'+placeName), NullWritable.get());
 			} catch (Exception e) {
