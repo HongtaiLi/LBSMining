@@ -1,0 +1,415 @@
+level0,level1,level2
+"Arts & Entertainment",Aquarium,empty
+"Arts & Entertainment",Arcade,empty
+"Arts & Entertainment","Art Gallery",empty
+"Arts & Entertainment","Bowling Alley",empty
+"Arts & Entertainment",Casino,empty
+"Arts & Entertainment","Comedy Club",empty
+"Arts & Entertainment","Concert Hall",empty
+"Arts & Entertainment",empty,empty
+"Arts & Entertainment","General Entertainment",empty
+"Arts & Entertainment","Historic Site",empty
+"Arts & Entertainment","Movie Theater",empty
+"Arts & Entertainment","Movie Theater","Indie Movie Theater"
+"Arts & Entertainment","Movie Theater",Multiplex
+"Arts & Entertainment",Museum,"Art Museum"
+"Arts & Entertainment",Museum,empty
+"Arts & Entertainment",Museum,"History Museum"
+"Arts & Entertainment",Museum,Planetarium
+"Arts & Entertainment",Museum,"Science Museum"
+"Arts & Entertainment","Music Venue",empty
+"Arts & Entertainment","Music Venue","Jazz Club"
+"Arts & Entertainment","Music Venue","Piano Bar"
+"Arts & Entertainment","Music Venue","Rock Club"
+"Arts & Entertainment","Performing Arts Venue","Dance Studio"
+"Arts & Entertainment","Performing Arts Venue",empty
+"Arts & Entertainment","Performing Arts Venue","Indie Theater"
+"Arts & Entertainment","Performing Arts Venue","Opera House"
+"Arts & Entertainment","Performing Arts Venue",Theater
+"Arts & Entertainment","Pool Hall",empty
+"Arts & Entertainment","Public Art",empty
+"Arts & Entertainment",Racetrack,empty
+"Arts & Entertainment",Stadium,"Baseball Stadium"
+"Arts & Entertainment",Stadium,"Basketball Stadium"
+"Arts & Entertainment",Stadium,"Cricket Ground"
+"Arts & Entertainment",Stadium,empty
+"Arts & Entertainment",Stadium,"Football Stadium"
+"Arts & Entertainment",Stadium,"Hockey Arena"
+"Arts & Entertainment",Stadium,"Soccer Stadium"
+"Arts & Entertainment",Stadium,Tennis
+"Arts & Entertainment",Stadium,"Track Stadium"
+"Arts & Entertainment","Theme Park",empty
+"Arts & Entertainment","Water Park",empty
+"Arts & Entertainment",Zoo,empty
+"College & University","College Academic Building","College Arts Building"
+"College & University","College Academic Building","College Communications Building"
+"College & University","College Academic Building","College Engineering Building"
+"College & University","College Academic Building","College History Building"
+"College & University","College Academic Building","College Math Building"
+"College & University","College Academic Building","College Science Building"
+"College & University","College Academic Building","College Technology Building"
+"College & University","College Academic Building",empty
+"College & University","College Administrative Building",empty
+"College & University","College Auditorium",empty
+"College & University","College Bookstore",empty
+"College & University","College Cafeteria",empty
+"College & University","College Classroom",empty
+"College & University","College Gym",empty
+"College & University","College Lab",empty
+"College & University","College Library",empty
+"College & University","College Quad",empty
+"College & University","College Rec Center",empty
+"College & University","College Residence Hall",empty
+"College & University","College Stadium","College Baseball Diamond"
+"College & University","College Stadium","College Basketball Court"
+"College & University","College Stadium","College Cricket Pitch"
+"College & University","College Stadium","College Football Field"
+"College & University","College Stadium","College Hockey Rink"
+"College & University","College Stadium","College Soccer Field"
+"College & University","College Stadium","College Tennis Court"
+"College & University","College Stadium","College Track"
+"College & University","College Stadium",empty
+"College & University","College Theater",empty
+"College & University","Community College",empty
+"College & University",empty,empty
+"College & University","Fraternity House",empty
+"College & University","General College & University",empty
+"College & University","Law School",empty
+"College & University","Medical School",empty
+"College & University","Sorority House",empty
+"College & University","Student Center",empty
+"College & University","Trade School",empty
+"College & University",University,empty
+Food,"Afghan Restaurant",empty
+Food,"African Restaurant",empty
+Food,"American Restaurant",empty
+Food,"Arepa Restaurant",empty
+Food,"Argentinian Restaurant",empty
+Food,"Asian Restaurant",empty
+Food,"Australian Restaurant",empty
+Food,"Bagel Shop",empty
+Food,Bakery,empty
+Food,"BBQ Joint",empty
+Food,"Brazilian Restaurant",empty
+Food,"Breakfast Spot",empty
+Food,Brewery,empty
+Food,"Burger Joint",empty
+Food,"Burrito Place",empty
+Food,CafÃ©,empty
+Food,"Cajun / Creole Restaurant",empty
+Food,"Caribbean Restaurant",empty
+Food,"Chinese Restaurant",empty
+Food,"Coffee Shop",empty
+Food,"Cuban Restaurant",empty
+Food,"Cupcake Shop",empty
+Food,"Deli / Bodega",empty
+Food,"Dessert Shop",empty
+Food,"Dim Sum Restaurant",empty
+Food,Diner,empty
+Food,Distillery,empty
+Food,"Donut Shop",empty
+Food,"Dumpling Restaurant",empty
+Food,"Eastern European Restaurant",empty
+Food,empty,empty
+Food,"Ethiopian Restaurant",empty
+Food,"Falafel Restaurant",empty
+Food,"Fast Food Restaurant",empty
+Food,"Filipino Restaurant",empty
+Food,"Fish & Chips Shop",empty
+Food,"Food Truck",empty
+Food,"French Restaurant",empty
+Food,"Fried Chicken Joint",empty
+Food,Gastropub,empty
+Food,"German Restaurant",empty
+Food,"Gluten-free Restaurant",empty
+Food,"Greek Restaurant",empty
+Food,"Hot Dog Joint",empty
+Food,"Ice Cream Shop",empty
+Food,"Indian Restaurant",empty
+Food,"Indonesian Restaurant",empty
+Food,"Italian Restaurant",empty
+Food,"Japanese Restaurant",empty
+Food,"Juice Bar",empty
+Food,"Korean Restaurant",empty
+Food,"Latin American Restaurant",empty
+Food,"Mac & Cheese Joint",empty
+Food,"Malaysian Restaurant",empty
+Food,"Mediterranean Restaurant",empty
+Food,"Mexican Restaurant",empty
+Food,"Middle Eastern Restaurant",empty
+Food,"Molecular Gastronomy Restaurant",empty
+Food,"Mongolian Restaurant",empty
+Food,"Moroccan Restaurant",empty
+Food,"New American Restaurant",empty
+Food,"Peruvian Restaurant",empty
+Food,"Pizza Place",empty
+Food,"Portuguese Restaurant",empty
+Food,"Ramen /  Noodle House",empty
+Food,Restaurant,empty
+Food,"Salad Place",empty
+Food,"Sandwich Place",empty
+Food,"Scandinavian Restaurant",empty
+Food,"Seafood Restaurant",empty
+Food,"Snack Place",empty
+Food,"Soup Place",empty
+Food,"South American Restaurant",empty
+Food,"Southern / Soul Food Restaurant",empty
+Food,"Spanish Restaurant",empty
+Food,"Spanish Restaurant","Paella Restaurant"
+Food,Steakhouse,empty
+Food,"Sushi Restaurant",empty
+Food,"Swiss Restaurant",empty
+Food,"Taco Place",empty
+Food,"Tapas Restaurant",empty
+Food,"Tea Room",empty
+Food,"Thai Restaurant",empty
+Food,"Turkish Restaurant",empty
+Food,"Vegetarian / Vegan Restaurant",empty
+Food,"Vietnamese Restaurant",empty
+Food,Winery,empty
+Food,"Wings Joint",empty
+"Nightlife Spot",Bar,empty
+"Nightlife Spot","Beer Garden",empty
+"Nightlife Spot","Cocktail Bar",empty
+"Nightlife Spot","Dive Bar",empty
+"Nightlife Spot",empty,empty
+"Nightlife Spot","Gay Bar",empty
+"Nightlife Spot","Hookah Bar",empty
+"Nightlife Spot","Hotel Bar",empty
+"Nightlife Spot","Karaoke Bar",empty
+"Nightlife Spot",Lounge,empty
+"Nightlife Spot",Nightclub,empty
+"Nightlife Spot","Other Nightlife",empty
+"Nightlife Spot",Pub,empty
+"Nightlife Spot","Sake Bar",empty
+"Nightlife Spot",Speakeasy,empty
+"Nightlife Spot","Sports Bar",empty
+"Nightlife Spot","Strip Club",empty
+"Nightlife Spot","Whisky Bar",empty
+"Nightlife Spot","Wine Bar",empty
+"Outdoors & Recreation","Athletic & Sport","Baseball Field"
+"Outdoors & Recreation","Athletic & Sport","Basketball Court"
+"Outdoors & Recreation","Athletic & Sport",empty
+"Outdoors & Recreation","Athletic & Sport","Golf Course"
+"Outdoors & Recreation","Athletic & Sport","Paintball Field"
+"Outdoors & Recreation","Athletic & Sport","Skate Park"
+"Outdoors & Recreation","Athletic & Sport","Skating Rink"
+"Outdoors & Recreation","Athletic & Sport","Soccer Field"
+"Outdoors & Recreation","Athletic & Sport","Tennis Court"
+"Outdoors & Recreation","Athletic & Sport","Volleyball Court"
+"Outdoors & Recreation",Beach,empty
+"Outdoors & Recreation",Beach,"Surf Spot"
+"Outdoors & Recreation",Bridge,empty
+"Outdoors & Recreation",Campground,empty
+"Outdoors & Recreation",Castle,empty
+"Outdoors & Recreation",Cemetery,empty
+"Outdoors & Recreation",City,empty
+"Outdoors & Recreation","Dog Run",empty
+"Outdoors & Recreation",empty,empty
+"Outdoors & Recreation",Farm,empty
+"Outdoors & Recreation",Field,empty
+"Outdoors & Recreation",Garden,empty
+"Outdoors & Recreation","Harbor / Marina",empty
+"Outdoors & Recreation","Hiking Trail",empty
+"Outdoors & Recreation","Hot Spring",empty
+"Outdoors & Recreation",Island,empty
+"Outdoors & Recreation",Lake,empty
+"Outdoors & Recreation",Lighthouse,empty
+"Outdoors & Recreation",Mountain,empty
+"Outdoors & Recreation",Neighborhood,empty
+"Outdoors & Recreation","Other Great Outdoors",empty
+"Outdoors & Recreation",Park,empty
+"Outdoors & Recreation",Playground,empty
+"Outdoors & Recreation",Plaza,empty
+"Outdoors & Recreation",Pool,empty
+"Outdoors & Recreation",River,empty
+"Outdoors & Recreation","Rock Climbing Spot",empty
+"Outdoors & Recreation","Scenic Lookout",empty
+"Outdoors & Recreation","Sculpture Garden",empty
+"Outdoors & Recreation","Ski Area","Apres Ski Bar"
+"Outdoors & Recreation","Ski Area",empty
+"Outdoors & Recreation","Ski Area","Ski Chalet"
+"Outdoors & Recreation","Ski Area","Ski Lodge"
+"Outdoors & Recreation",Stables,empty
+"Outdoors & Recreation",Vineyard,empty
+"Outdoors & Recreation",Volcano,empty
+"Outdoors & Recreation",Well,empty
+"Professional & Other Places","Animal Shelter",empty
+"Professional & Other Places",Auditorium,empty
+"Professional & Other Places",Building,empty
+"Professional & Other Places","Convention Center",empty
+"Professional & Other Places","Convention Center","Meeting Room"
+"Professional & Other Places",empty,empty
+"Professional & Other Places","Event Space",empty
+"Professional & Other Places",Factory,empty
+"Professional & Other Places",Fair,empty
+"Professional & Other Places","Funeral Home",empty
+"Professional & Other Places","Government Building","Capitol Building"
+"Professional & Other Places","Government Building","City Hall"
+"Professional & Other Places","Government Building",Courthouse
+"Professional & Other Places","Government Building",empty
+"Professional & Other Places","Government Building","Fire Station"
+"Professional & Other Places","Government Building","Monument / Landmark"
+"Professional & Other Places","Government Building","Police Station"
+"Professional & Other Places",Library,empty
+"Professional & Other Places","Medical Center","Dentist's Office"
+"Professional & Other Places","Medical Center","Doctor's Office"
+"Professional & Other Places","Medical Center","Emergency Room"
+"Professional & Other Places","Medical Center",empty
+"Professional & Other Places","Medical Center",Hospital
+"Professional & Other Places","Medical Center",Laboratory
+"Professional & Other Places","Medical Center","Optical Shop"
+"Professional & Other Places","Medical Center",Veterinarian
+"Professional & Other Places","Military Base",empty
+"Professional & Other Places",Non-Profit,empty
+"Professional & Other Places",Office,Cafeteria
+"Professional & Other Places",Office,"Campaign Office"
+"Professional & Other Places",Office,"Conference Room"
+"Professional & Other Places",Office,"Coworking Space"
+"Professional & Other Places",Office,empty
+"Professional & Other Places",Office,"Tech Startup"
+"Professional & Other Places",Parking,empty
+"Professional & Other Places","Post Office",empty
+"Professional & Other Places","Radio Station",empty
+"Professional & Other Places",School,"Elementary School"
+"Professional & Other Places",School,empty
+"Professional & Other Places",School,"High School"
+"Professional & Other Places",School,"Middle School"
+"Professional & Other Places",School,"Music School"
+"Professional & Other Places",School,"Nursery School"
+"Professional & Other Places","Spiritual Center",Church
+"Professional & Other Places","Spiritual Center",empty
+"Professional & Other Places","Spiritual Center",Mosque
+"Professional & Other Places","Spiritual Center",Shrine
+"Professional & Other Places","Spiritual Center",Synagogue
+"Professional & Other Places","Spiritual Center",Temple
+"Professional & Other Places","Voting Booth",empty
+Residence,"Assisted Living",empty
+Residence,empty,empty
+Residence,"Home (private)",empty
+Residence,"Housing Development",empty
+Residence,"Residential Building (Apartment / Condo)",empty
+"Shop & Service","Antique Shop",empty
+"Shop & Service","Arts & Crafts Store",empty
+"Shop & Service","Automotive Shop",empty
+"Shop & Service",Bank,empty
+"Shop & Service","Bike Shop",empty
+"Shop & Service","Board Shop",empty
+"Shop & Service",Bookstore,empty
+"Shop & Service","Bridal Shop",empty
+"Shop & Service","Camera Store",empty
+"Shop & Service","Candy Store",empty
+"Shop & Service","Car Dealership",empty
+"Shop & Service","Car Wash",empty
+"Shop & Service","Clothing Store","Accessories Store"
+"Shop & Service","Clothing Store",Boutique
+"Shop & Service","Clothing Store",empty
+"Shop & Service","Clothing Store","Kids Store"
+"Shop & Service","Clothing Store","Lingerie Store"
+"Shop & Service","Clothing Store","Men's Store"
+"Shop & Service","Clothing Store","Shoe Store"
+"Shop & Service","Clothing Store","Women's Store"
+"Shop & Service","Convenience Store",empty
+"Shop & Service","Cosmetics Shop",empty
+"Shop & Service","Credit Union",empty
+"Shop & Service",Daycare,empty
+"Shop & Service","Department Store",empty
+"Shop & Service","Design Studio",empty
+"Shop & Service","Drugstore / Pharmacy",empty
+"Shop & Service","Electronics Store",empty
+"Shop & Service",empty,empty
+"Shop & Service","Financial or Legal Service",empty
+"Shop & Service","Flea Market",empty
+"Shop & Service","Flower Shop",empty
+"Shop & Service","Food & Drink Shop",Butcher
+"Shop & Service","Food & Drink Shop","Cheese Shop"
+"Shop & Service","Food & Drink Shop",empty
+"Shop & Service","Food & Drink Shop","Farmers Market"
+"Shop & Service","Food & Drink Shop","Fish Market"
+"Shop & Service","Food & Drink Shop","Food Court"
+"Shop & Service","Food & Drink Shop","Gourmet Shop"
+"Shop & Service","Food & Drink Shop","Grocery Store"
+"Shop & Service","Food & Drink Shop","Health Food Store"
+"Shop & Service","Food & Drink Shop","Liquor Store"
+"Shop & Service","Food & Drink Shop","Wine Shop"
+"Shop & Service","Furniture / Home Store",empty
+"Shop & Service","Gaming Cafe",empty
+"Shop & Service","Garden Center",empty
+"Shop & Service","Gas Station / Garage",empty
+"Shop & Service","Gift Shop",empty
+"Shop & Service","Gym / Fitness Center","Climbing Gym"
+"Shop & Service","Gym / Fitness Center",empty
+"Shop & Service","Gym / Fitness Center",Gym
+"Shop & Service","Gym / Fitness Center","Gym Pool"
+"Shop & Service","Gym / Fitness Center","Martial Arts Dojo"
+"Shop & Service","Gym / Fitness Center",Track
+"Shop & Service","Gym / Fitness Center","Yoga Studio"
+"Shop & Service","Hardware Store",empty
+"Shop & Service","Hobby Shop",empty
+"Shop & Service","Hunting Supply",empty
+"Shop & Service","Internet Cafe",empty
+"Shop & Service","Jewelry Store",empty
+"Shop & Service","Laundry Service",empty
+"Shop & Service",Mall,empty
+"Shop & Service",Market,empty
+"Shop & Service","Miscellaneous Shop",empty
+"Shop & Service","Mobile Phone Shop",empty
+"Shop & Service","Motorcycle Shop",empty
+"Shop & Service","Music Store",empty
+"Shop & Service","Nail Salon",empty
+"Shop & Service",Newsstand,empty
+"Shop & Service","Paper / Office Supplies Store",empty
+"Shop & Service","Pet Service",empty
+"Shop & Service","Pet Store",empty
+"Shop & Service","Photography Lab",empty
+"Shop & Service","Real Estate Office",empty
+"Shop & Service","Record Shop",empty
+"Shop & Service","Recycling Facility",empty
+"Shop & Service","Salon / Barbershop",empty
+"Shop & Service","Smoke Shop",empty
+"Shop & Service","Spa / Massage",empty
+"Shop & Service","Sporting Goods Shop",empty
+"Shop & Service","Storage Facility",empty
+"Shop & Service","Tanning Salon",empty
+"Shop & Service","Tattoo Parlor",empty
+"Shop & Service","Thrift / Vintage Store",empty
+"Shop & Service","Toy / Game Store",empty
+"Shop & Service","Travel Agency",empty
+"Shop & Service","Video Game Store",empty
+"Shop & Service","Video Store",empty
+"Travel & Transport",Airport,"Airport Food Court"
+"Travel & Transport",Airport,"Airport Gate"
+"Travel & Transport",Airport,"Airport Lounge"
+"Travel & Transport",Airport,"Airport Terminal"
+"Travel & Transport",Airport,"Airport Tram"
+"Travel & Transport",Airport,empty
+"Travel & Transport",Airport,Plane
+"Travel & Transport","Bike Rental / Bike Share",empty
+"Travel & Transport","Bus Station","Bus Line"
+"Travel & Transport","Bus Station",empty
+"Travel & Transport","Embassy / Consulate",empty
+"Travel & Transport",empty,empty
+"Travel & Transport",Ferry,"Boat or Ferry"
+"Travel & Transport",Ferry,empty
+"Travel & Transport",Ferry,Pier
+"Travel & Transport","General Travel",empty
+"Travel & Transport",Hotel,"Bed & Breakfast"
+"Travel & Transport",Hotel,"Boarding House"
+"Travel & Transport",Hotel,empty
+"Travel & Transport",Hotel,Hostel
+"Travel & Transport",Hotel,"Hotel Pool"
+"Travel & Transport",Hotel,Motel
+"Travel & Transport",Hotel,Resort
+"Travel & Transport",Hotel,"Roof Deck"
+"Travel & Transport","Light Rail",empty
+"Travel & Transport","Moving Target",empty
+"Travel & Transport","Rental Car Location",empty
+"Travel & Transport","Rest Area",empty
+"Travel & Transport",Road,empty
+"Travel & Transport",Subway,empty
+"Travel & Transport",Taxi,empty
+"Travel & Transport","Tourist Information Center",empty
+"Travel & Transport","Train Station",empty
+"Travel & Transport","Train Station",Platform
+"Travel & Transport","Train Station",Train
+"Travel & Transport","Travel Lounge",empty
